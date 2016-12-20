@@ -23,14 +23,9 @@ h1, h2, h3 {
 	margin-top: 20px;
 }
 .title {
-	font-size: 2em;
-	border: 2px solid #abc123;
-	width: 320px;
-	text-align: center;
-	padding: 15px;
-	background-color: rgb(200,10,20);
-	color: #fff;
-	border-radius: 0 10px;
+	color: maroon;
+	font-size: 3em;
+	border-bottom: 2px solid #abc123;
 	cursor: pointer;
 
 }
@@ -38,7 +33,9 @@ h1, h2, h3 {
 	background-color:#cd66aa;
    	padding: 10px;
    	color: #fff;
-   	font-family:Georgia; 
+   	font-family:Georgia;
+   	border-radius:  0 10px; 
+
    	
 }
 
