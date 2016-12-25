@@ -23,16 +23,14 @@ h1, h2, h3 {
 	margin-top: 20px;
 }
 .title {
-	font-size: 1.5em;
-	border: 2px solid #abc;
-	width: 300px;
-	padding: 15px;
+	color: orange;
+	font-size: 2em;
+	border: 2px solid #abc122;
+	width:320px;
 	text-align: center;
-	background-color: rgb(20,140,120);
-	color: #fff;
-	border-radius: 0 10px;	
-	cursor: pointer;
-	font-family: Georgia;
+	padding: 14px;
+	background-color: rgb(230,20,10);
+	box-shadow: 5px 5px 5px #abc;
 
 }
 .text {
