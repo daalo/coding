@@ -24,15 +24,7 @@ h1, h2, h3 {
 }
 .title {
 	color: orange;
-	background-color: rgb(230,20,100);
-	width: 280px;	
-	text-align: center;
-	padding: 20px;
-	font-size: 1.5em;
-	color: #fff;
-	border-radius: 0 10px;
-	box-shadow: 5px 5px 5px #abc123;
-
+	
     
 
 }
