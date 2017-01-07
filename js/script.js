@@ -18,7 +18,7 @@ $('.title').click(function(){
 
    var bgColor = $('#header').css('background-color');
    var text = '<h3>Never give up your goals</h3>'
-   $('.text').slideToggle(1000);
+   $('.text').after('<h3>PHP Programming</h3>');
 
 
 });// end click
