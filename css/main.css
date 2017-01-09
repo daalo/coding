@@ -24,14 +24,14 @@ h1, h2, h3 {
 }
 .title {
 	color: orange;
-	border: 2px solid #abc123;
 	width: 290px;
 	text-align: center;
-	padding: 18px;
+	padding: 25px;
 	background-color: rgb(100,20,100);
 	border-radius: 0 10px;
 	font-family: Georgia, Times;
 	cursor: pointer;
+	
 
 }
 .text {
