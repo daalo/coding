@@ -16,9 +16,9 @@ $('.pq').each(function(){
 
 $('.title').click(function(){
 
-   var bgColor = $('#header').css('background-color');
-   var text = '<h3>Never give up your goals</h3>'
-   $('.text').after('<h3>PHP Programming</h3>');
+	var text = 'Hello World';
+
+   $('.text').slideToggle(1000);
 
 
 });// end click
