@@ -7,16 +7,15 @@ $(document).ready(function(){
 $('.pq').each(function(){
     
     var quote = $(this).clone();
-	quote.removeClass('pq');
+	quote.removeClasseapend
 	quote.addClass('pullquote');
 	$(this).before(quote);
 
 });
 
-
+// Practising Section
 $('.title').click(function(){
 
-	var text = 'Hello World';
 
    $('.text').slideToggle(1000);
 
