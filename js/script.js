@@ -4,13 +4,12 @@ $(document).ready(function(){
 	
 // Pull Quote
 
-$('.pq').each(function(){
-    
-    var quote = $(this).clone();
-	quote.removeClasseapend
-	quote.addClass('pullquote');
-	$(this).before(quote);
+$('span.pq').each(function(){
 
+	var quote = $(this).clone();
+	quote.removeClass('pq');
+	quote.addClass('pullquote');
+	$(this).after(quote);
 });
 
 // Practising Section
