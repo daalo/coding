@@ -15,8 +15,8 @@ $('span.pq').each(function(){
 // Practising Section
 $('.title').click(function(){
 
+   $('.text').slideToggle(1000)
 
-   $('.text').slideToggle(1000);
 
 
 });// end click
