@@ -15,13 +15,8 @@ $('span.pq').each(function(){
 // Practising Section
 $('.title').click(function(){
 
-   $('.text').css({
-   	'background-color':'rgb(20,100,50)'
-   }).slideToggle(1000);
-
-
-
-});// end click
+	$('.text').after('<h3>Hello World' + '<br />');
+});
 
 $('.text').css('clear', 'both');
 
