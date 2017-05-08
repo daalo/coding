@@ -15,8 +15,12 @@ $('span.pq').each(function(){
 // Practising Section
 $('.title').click(function(){
 
-	$('.text').after('<h3>Hello World' + '<br />');
-});
+   $('.text').slideToggle(1000);
+
+});// end
+
+
+
 
 $('.text').css('clear', 'both');
 
