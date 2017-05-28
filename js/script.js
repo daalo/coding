@@ -13,12 +13,19 @@ $('span.pq').each(function(){
 });
 
 // Practising Section
-$('.title').click(function(){
+$('.title').click(function(evt){
 
    $('.text').slideToggle(1000);
+   
 
 });// end
 
+
+
+$('#link').click(function(){
+
+ 	return false;
+});
 
 
 
