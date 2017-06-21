@@ -29,15 +29,18 @@ h1, h2, h3 {
 	margin-top: 20px;
 }
 .title {
-  	color: orange;
-  	background-color: rgb(10,20,70);
-  	width: 300px;
-  	text-align: center;
-  	padding: 20px;
-  	border-radius: 0 10px;
-  	font-family: Georgia, Times, serif;
-  	cursor: pointer;
-  	box-shadow: 5px 5px 5px #abc123;
+	color: orange;
+	background-color: rgb(200,20,10);
+	width: 300px;
+	text-align: center;
+	padding: 20px;
+	border-radius: 0 10px;
+	box-shadow: 5px 5px 5px #abc123;
+	color: #fff;
+	font-family: Georgia, Times, serif;
+	cursor: pointer;
+
+
   	
 
 }
