@@ -13,14 +13,11 @@ $('span.pq').each(function(){
 });
 
 // Practising Section
-
-$('.title').on('click', function(){
+$('.title').click(function(){
 
 	$('.text').slideToggle(1000);
 
-
-});// end on
-
+});
 
 
 $('.text').css('clear', 'both');
