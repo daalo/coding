@@ -30,15 +30,16 @@ h1, h2, h3 {
 }
 .title {
 	color: orange;
-	background-color: rgb(100,20,100);
+	background-color: rgb(100,2,10);
 	width: 300px;
 	text-align: center;
 	padding: 20px;
 	border-radius: 0 10px;
-	cursor: pointer;
-	font-family: Georgia, Times, serif;
 	box-shadow: 5px 5px 5px #abc123;
-	color: #fff;
+	cursor: pointer;
+
+	
+	
 
 
   	
